@@ -1,7 +1,7 @@
 [
   {"id": 1, "membernr": 1, "name": "Peter Parker", "birthdate": "1974-12-21", "gender": "Man", "startdate": "2021-09-10", "startweight": 100.8, "todaysweight": 98.4 },
   {"id": 2, "membernr": 2, "name": "Adam West", "birthdate": "1956-04-04", "gender": "Man", "startdate": "2020-10-12", "startweight": 98.6, "todaysweight": 96.5 },
-  {"id": 3, "membernr": 3, "name": "Cark Kent", "birthdate": "1946-01-15", "gender": "Man", "startdate": "2018-04-20", "startweight": 96.3, "todaysweight": 93.5 },
+  {"id": 3, "membernr": 3, "name": "Cark Kent", "birthdate": Thu Jan 10 1946 00:00:00 GMT+0100 (centraleuropeisk normaltid), "gender": "Man", "startdate": "2018-04-20", "startweight": 96.3, "todaysweight": 93.5 },
   {"id": 4, "membernr": 4, "name": "Bruce Banner", "birthdate": "1959-03-25", "gender": "Man", "startdate": "2021-07-23", "startweight": 95.8, "todaysweight": 98.5 },
   {"id": 5, "membernr": 5, "name": "Tony Stark", "birthdate": "1968-06-12", "gender": "Man", "startdate": "2021-02-14", "startweight": 94.2, "todaysweight": 93.5 },
   {"id": 6, "membernr": 6, "name": "Val Kilmer", "birthdate": "1966-10-04", "gender": "Man", "startdate": "2021-01-23", "startweight": 95.6, "todaysweight": 94.5 },
