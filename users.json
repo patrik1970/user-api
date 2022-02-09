@@ -1,5 +1,7 @@
 [
-  {"id": 1, "membernr": 1, "name": "Peter Parker", "birthdate": "1974-12-21", "gender": "Man", "startdate": "2021-09-10", "height": 180, "startweight": 100.8, "goalweight": 80, "todaysweight": 98.4, "weight": [{"id": 1, "todaysdate":"2020-02-10", "todaysweight": 98.4}, {"id": 2, "todaysdate":"2020-02-12", "todaysweight": 97.4}] },
+  {"id": 1, "membernr": 1, "name": "Peter Parker", "birthdate": "1974-12-21", "gender": "Man", "startdate": "2021-09-10", "height": 180, "startweight": 100.8, "goalweight": 80, "todaysweight": 98.4, "weight": [
+    {"id": 1, "todaysdate":"2020-02-10", "todaysweight": 98.4}, 
+    {"id": 2, "todaysdate":"2020-02-12", "todaysweight": 97.4}] },
   {"id": 2, "membernr": 2, "name": "Adam West", "birthdate": "1956-04-04", "gender": "Man", "startdate": "2020-10-12", "height": 176, "startweight": 98.6, "goalweight": 77.2,"todaysweight": 96.5, "weight": [{"todaysdate":"2020-02-10", "todaysweight": 98.4}] },
   {"id": 3, "membernr": 3, "name": "Cark Kent", "birthdate": "1946-01-01", "gender": "Man", "startdate": "2018-04-20", "height": 178, "startweight": 96.3, "goalweight": 79.1,"todaysweight": 93.5, "weight": [{"todaysdate":"2020-02-10", "todaysweight": 98.4}] },
   {"id": 4, "membernr": 4, "name": "Bruce Banner", "birthdate": "1959-03-25", "gender": "Man", "startdate": "2021-07-23", "height": 163, "startweight": 95.8, "goalweight": 66.2,"todaysweight": 98.5, "weight": [{"todaysdate":"2020-02-10", "todaysweight": 98.4}] },
