@@ -1,12 +1,12 @@
 [
   {"id": 1, "firstName": "Emilia", "lastName": "Axelsson", "wwCity": "Lund", "mobilePhone": "0702020202", "isGoldMember": false, "isHealthyBalance": false,},
   {"id": 2, "firstName": "Lisa", "lastName": "Jönsson", "wwCity": "Helsingborg", "mobilePhone": "0722456789", "isGoldMember": false, "isHealthyBalance": true,},
-  {"id": 3, "firstName": "Petra", "lastName": "Svensson", "wwCity": "Malmö", "mobilePhone": "0704953297", "isGoldMember": false, "isHealthyBalance": true,},
+  {"id": 3, "firstName": "Petra", "lastName": "Svensson", "wwCity": "Malmö", "mobilePhone": "0704953297", "isGoldMember": true, "isHealthyBalance": true,},
   {"id": 4, "firstName": "Stina", "lastName": "Andersson", "wwCity": "Lund", "mobilePhone": "0707031743", "isGoldMember": false, "isHealthyBalance": false,},
   {"id": 5, "firstName": "Sofia", "lastName": "Richardsson", "wwCity": "Trelleborg", "mobilePhone": "0743854298", "isGoldMember": false, "isHealthyBalance": true,},
-  {"id": 6, "firstName": "Helen", "lastName": "Mossberg", "wwCity": "Malmö", "mobilePhone": "0705621486", "isGoldMember": false, "isHealthyBalance": true,},
+  {"id": 6, "firstName": "Helen", "lastName": "Mossberg", "wwCity": "Malmö", "mobilePhone": "0705621486", "isGoldMember": true, "isHealthyBalance": true,},
   {"id": 7, "firstName": "Magnus", "lastName": "Håkansson", "wwCity": "Ystad", "mobilePhone": "0765095238", "isGoldMember": false, "isHealthyBalance": false,},
   {"id": 8, "firstName": "Pernilla", "lastName": "Josefsson", "wwCity": "Helsingborg", "mobilePhone": "0723764962", "isGoldMember": false, "isHealthyBalance": true,},
-  {"id": 9, "firstName": "Paula", "lastName": "Johansson", "wwCity": "Simrishamn", "mobilePhone": "0706263458", "isGoldMember": false, "isHealthyBalance": true,},
+  {"id": 9, "firstName": "Paula", "lastName": "Johansson", "wwCity": "Simrishamn", "mobilePhone": "0706263458", "isGoldMember": true, "isHealthyBalance": true,},
   {"id": 10, "firstName": "Mikaela", "lastName": "Larsson", "wwCity": "Lund", "mobilePhone": "0709203415", "isGoldMember": false, "isHealthyBalance": false,}
 ]
