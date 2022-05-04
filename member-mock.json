@@ -1,3 +1,3 @@
 [
-  {"id": 1, "firstName": 'Emilia', 'lastName': 'Axelsson', 'wwCity': 'Lund', 'mobilePhone': '0702020202', 'isGoldMember': false, 'isHealthyBalance': true,}
+  {"id": 1, "firstName": "Emilia", "lastName": "Axelsson", "wwCity": "Lund", "mobilePhone": "0702020202", "isGoldMember": false, "isHealthyBalance": true,}
 ]
