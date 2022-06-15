@@ -1,0 +1,12 @@
+[
+  {"id": 1, "title": "Strand och Bad", "description": "Det är mycket tång som flutit upp på starnden", "classification": 4},
+  {"id": 2, "title": "Belysning", "description": "Lucka på lyktstolpen är borta och sladdarna häner ut", "classification": 1},
+  {"id": 3, "title": "Lekplatser", "description": "Någon har eldat upp gungan på lekplatsen", "classification": 3},
+  {"id": 4, "title": "Klotter", "description": "Någon har klottrat på elcentralen", "classification": 4},
+  {"id": 5, "title": "Park och Natur", "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig", "classification": 3},
+  {"id": 6, "title": "Gator, gång och cykelvägar", "description": "Det ligger krossat glas på cykelbanan", "classification": 2},
+  {"id": 7, "title": "Trafik och parkering", "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten", "classification": 2},
+  {"id": 8, "title": "Hinder och tillgänglighet", "description": "Någon har slängt elscootrar på gångbanan", "classification": 1},
+  {"id": 9, "title": "Nedskräpning", "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "classification": 2},
+  {"id": 10, "title": "Rökfria offentliga miljöer", "description": "Någon har rökt på toaletten på Knutpunkten", "classification": 3}  
+]
