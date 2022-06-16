@@ -1,5 +1,5 @@
 [
-  {"id": 1, "category": "Strand och Bad", "administration": "Miljöförvaltningen", "description": "Det är mycket tång som flutit upp på starnden", "classification": 4},
+  {"id": 1, "category": "Strand och Bad", "administration": "Miljöförvaltningen", "description": "Det är mycket tång som flutit upp på starnden", "classification": 4, "mltext": "beach, sand"},
   {"id": 2, "category": "Belysning", "administration": "Fastighetsförvaltningen", "description": "Lucka på lyktstolpen är borta och sladdarna häner ut", "classification": 1},
   {"id": 3, "category": "Lekplatser", "administration": "fritidsförvaltningen", "description": "Någon har eldat upp gungan på lekplatsen", "classification": 3},
   {"id": 4, "category": "Klotter", "administration": "Miljöförvaltningen", "description": "Någon har klottrat på elcentralen", "classification": 4},
