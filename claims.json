@@ -7,7 +7,7 @@
     "description": "Det ligger mjöl mitt på lekplatsen",
     "lon": 56.044198,
     "lat": 12.704068,
-    "classification": 2
+    "classification": 4
   },
    {
     "id": 2,
@@ -17,7 +17,7 @@
     "description": "Lampan på lyktstolpen är sönder",
     "lon": 55.023874,
     "lat": 13.652385,
-    "classification": 1
+    "classification": 3
   },
    {
     "id": 3,
@@ -27,7 +27,7 @@
     "description": "Någon har lämnat en massa skräp på gatan",
     "lon": 53.087541,
     "lat": 16.843091,
-    "classification": 4
+    "classification": 2
   },
     {
     "id": 4,
@@ -37,7 +37,7 @@
     "description": "Allvarlig buss olycka, nära knutspunkten",
     "lon": 52.018642,
     "lat": 10.725103,
-    "classification": 5
+    "classification": 1
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "description": "Det är mycket tång som flutit upp på starnden",
     "lon": 54.064921,
     "lat": 13.731952,
-    "classification": 4
+    "classification": 5
   },
   {
     "id": 7,
@@ -97,7 +97,7 @@
     "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig",
     "lon": 56.044198,
     "lat": 12.704068,
-    "classification": 3
+    "classification": 4
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten",
     "lon": 56.044198,
     "lat": 12.704068,
-    "classification": 2
+    "classification": 3
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty",
     "lon": 56.044198,
     "lat": 12.704068,
-    "classification": 2
+    "classification": 3
   },
   {
     "id": 15,
