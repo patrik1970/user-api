@@ -1,12 +1,153 @@
 [
-  {"id": 1, "category": "Strand och Bad", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "Det är mycket tång som flutit upp på starnden", "lon": 56.044198, "lat": 12.704068, "classification": 4},
-  {"id": 2, "category": "Belysning", "administration": "Fastighetsförvaltningen", "lable": "Tång", "description": "Lucka på lyktstolpen är borta och sladdarna häner ut", "lon": 56.044198, "lat": 12.704068, "classification": 1},
-  {"id": 3, "category": "Lekplatser", "administration": "fritidsförvaltningen", "lable": "Tång", "description": "Någon har eldat upp gungan på lekplatsen", "lon": 56.044198, "lat": 12.704068, "classification": 3},
-  {"id": 4, "category": "Klotter", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "Någon har klottrat på elcentralen", "lon": 56.044198, "lat": 12.704068, "classification": 4},
-  {"id": 5, "category": "Park och Natur", "administration": "Parkförvaltningen", "lable": "Tång", "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig", "lon": 56.044198, "lat": 12.704068, "classification": 3},
-  {"id": 6, "category": "Gator, gång och cykelvägar", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "Det ligger krossat glas på cykelbanan", "lon": 56.044198, "lat": 12.704068, "classification": 2},
-  {"id": 7, "category": "Trafik och parkering", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten", "lon": 56.044198, "lat": 12.704068, "classification": 2},
-  {"id": 8, "category": "Hinder och tillgänglighet", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "Någon har slängt elscootrar på gångbanan", "lon": 56.044198, "lat": 12.704068, "classification": 1},
-  {"id": 9, "category": "Nedskräpning", "administration": "Miljöförvaltningen", "lable": "Tång","description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "lon": 56.044198, "lat": 12.704068, "classification": 2},
-  {"id": 10, "category": "Rökfria offentliga miljöer", "administration": "Miljöförvaltningen", "lable": "Tång", "description": "Någon har rökt på toaletten på Knutpunkten", "lon": 56.044198, "lat": 12.704068, "classification": 3}  
+  {
+    "id": 1,
+    "category": "Lekplatser",
+    "administration": "Fritidsförvaltningen",
+    "lable": "Mjöl",
+    "description": "Det ligger mjöl mitt på lekplatsen",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 2
+  },
+   {
+    "id": 2,
+    "category": "Belysning",
+    "administration": "Fastighetsförvaltningen",
+    "lable": "Trasig lampa",
+    "description": "Lampan på lyktstolpen är sönder",
+    "lon": 55.023874,
+    "lat": 13.652385,
+    "classification": 1
+  },
+   {
+    "id": 3,
+    "category": "Nedskräpning",
+    "administration": "Miljöförvaltningen",
+    "lable": "Skräp",
+    "description": "Någon har lämnat en massa skräp på gatan",
+    "lon": 53.087541,
+    "lat": 16.843091,
+    "classification": 4
+  },
+    {
+    "id": 4,
+    "category": "Trafik och parkering",
+    "administration": "Trafikförvaltningen",
+    "lable": "Olycka",
+    "description": "Allvarlig buss olycka, nära knutspunkten",
+    "lon": 52.018642,
+    "lat": 10.725103,
+    "classification": 5
+  },
+  {
+    "id": 5,
+    "category": "Lekplatser",
+    "administration": "Fritidsförvaltningen",
+    "lable": "Stor sten",
+    "description": "Det ligger ett stort sten som blockerar rutschkanan",
+    "lon": 52.028693,
+    "lat": 18.741952,
+    "classification": 2
+  },
+  {
+    "id": 6,
+    "category": "Strand och Bad",
+    "administration": "Miljöförvaltningen",
+    "lable": "Tång",
+    "description": "Det är mycket tång som flutit upp på starnden",
+    "lon": 54.064921,
+    "lat": 13.731952,
+    "classification": 4
+  },
+  {
+    "id": 7,
+    "category": "Belysning",
+    "administration": "Fastighetsförvaltningen",
+    "lable": "Lyktstolpslucka",
+    "description": "Lucka på lyktstolpen är borta och sladdarna häner ut",
+    "lon": 58.071739,
+    "lat": 14.793051,
+    "classification": 1
+  },
+  {
+    "id": 8,
+    "category": "Lekplatser",
+    "administration": "Fritidsförvaltningen",
+    "lable": "Brand",
+    "description": "Någon har eldat upp gungan på lekplatsen",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 3
+  },
+  {
+    "id": 9,
+    "category": "Klotter",
+    "administration": "Miljöförvaltningen",
+    "lable": "Klotter",
+    "description": "Någon har klottrat på elcentralen",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 4
+  },
+  {
+    "id": 10,
+    "category": "Park och Natur",
+    "administration": "Parkförvaltningen",
+    "lable": "Picknick",
+    "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 3
+  },
+  {
+    "id": 11,
+    "category": "Gator, gång och cykelvägar",
+    "administration": "Miljöförvaltningen",
+    "lable": "Krossat glas",
+    "description": "Det ligger krossat glas på cykelbanan",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 2
+  },
+  {
+    "id": 12,
+    "category": "Trafik och parkering",
+    "administration": "Miljöförvaltningen",
+    "lable": "Felparkerad bil",
+    "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 2
+  },
+  {
+    "id": 13,
+    "category": "Hinder och tillgänglighet",
+    "administration": "Miljöförvaltningen",
+    "lable": "Elscooter",
+    "description": "Någon har slängt elscootrar på gångbanan",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 1
+  },
+  {
+    "id": 14,
+    "category": "Nedskräpning",
+    "administration": "Miljöförvaltningen",
+    "lable": "Gammalt kylskåp",
+    "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 2
+  },
+  {
+    "id": 15,
+    "category": "Rökfria offentliga miljöer",
+    "administration": "Miljöförvaltningen",
+    "lable": "Rökning",
+    "description": "Någon har rökt på toaletten på Knutpunkten",
+    "lon": 56.044198,
+    "lat": 12.704068,
+    "classification": 3
+  }
 ]
+
