@@ -7,6 +7,6 @@
   {"id": 6, "category": "Gator, gång och cykelvägar", "administration": "Miljöförvaltningen", "description": "Det ligger krossat glas på cykelbanan", "classification": 2},
   {"id": 7, "category": "Trafik och parkering", "administration": "Miljöförvaltningen", "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten", "classification": 2},
   {"id": 8, "category": "Hinder och tillgänglighet", "administration": "Miljöförvaltningen", "description": "Någon har slängt elscootrar på gångbanan", "classification": 1},
-  {"id": 9, "category": "Nedskräpning", "description": "administration": "Miljöförvaltningen", "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "classification": 2},
+  {"id": 9, "category": "Nedskräpning", "administration": "Miljöförvaltningen", "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "classification": 2},
   {"id": 10, "category": "Rökfria offentliga miljöer", "administration": "Miljöförvaltningen", "description": "Någon har rökt på toaletten på Knutpunkten", "classification": 3}  
 ]
