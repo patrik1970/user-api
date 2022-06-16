@@ -1,12 +1,12 @@
 [
   {"id": 1, "category": "Strand och Bad", "administration": "Miljöförvaltningen", "description": "Det är mycket tång som flutit upp på starnden", "classification": 4, "mltext": "beach, sand"},
   {"id": 2, "category": "Belysning", "administration": "Fastighetsförvaltningen", "description": "Lucka på lyktstolpen är borta och sladdarna häner ut", "classification": 1, "mlimage": "lamp, pavement"},
-  {"id": 3, "category": "Lekplatser", "administration": "fritidsförvaltningen", "description": "Någon har eldat upp gungan på lekplatsen", "classification": 3},
-  {"id": 4, "category": "Klotter", "administration": "Miljöförvaltningen", "description": "Någon har klottrat på elcentralen", "classification": 4},
-  {"id": 5, "category": "Park och Natur", "administration": "Parkförvaltningen", "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig", "classification": 3},
-  {"id": 6, "category": "Gator, gång och cykelvägar", "administration": "Miljöförvaltningen", "description": "Det ligger krossat glas på cykelbanan", "classification": 2},
-  {"id": 7, "category": "Trafik och parkering", "administration": "Miljöförvaltningen", "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten", "classification": 2},
-  {"id": 8, "category": "Hinder och tillgänglighet", "administration": "Miljöförvaltningen", "description": "Någon har slängt elscootrar på gångbanan", "classification": 1},
-  {"id": 9, "category": "Nedskräpning", "administration": "Miljöförvaltningen", "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "classification": 2},
-  {"id": 10, "category": "Rökfria offentliga miljöer", "administration": "Miljöförvaltningen", "description": "Någon har rökt på toaletten på Knutpunkten", "classification": 3}  
+  {"id": 3, "category": "Lekplatser", "administration": "fritidsförvaltningen", "description": "Någon har eldat upp gungan på lekplatsen", "classification": 3, "mltext": "playground, sand"},
+  {"id": 4, "category": "Klotter", "administration": "Miljöförvaltningen", "description": "Någon har klottrat på elcentralen", "classification": 4, "mlimage": "paint, art"},
+  {"id": 5, "category": "Park och Natur", "administration": "Parkförvaltningen", "description": "Någon har haft en pickninck i parken och inte plockat upp efter sig", "classification": 3, "mltext": "park, garbage"},
+  {"id": 6, "category": "Gator, gång och cykelvägar", "administration": "Miljöförvaltningen", "description": "Det ligger krossat glas på cykelbanan", "classification": 2, "mlimage": "glass, pavement"},
+  {"id": 7, "category": "Trafik och parkering", "administration": "Miljöförvaltningen", "description": "En bil står parkerad så inte sopbilen kan komma till och tömma miljöhuset till fastigheten", "classification": 2, "mltext": "garbagetruck, car parked"},
+  {"id": 8, "category": "Hinder och tillgänglighet", "administration": "Miljöförvaltningen", "description": "Någon har slängt elscootrar på gångbanan", "classification": 1, "mlimage": "scooter, pavement"},
+  {"id": 9, "category": "Nedskräpning", "administration": "Miljöförvaltningen", "description": "Någon har ställt ett gammalt kylskåp vid Magnus Stenbocks staty", "classification": 2, "mltext": "fridge, pavement"},
+  {"id": 10, "category": "Rökfria offentliga miljöer", "administration": "Miljöförvaltningen", "description": "Någon har rökt på toaletten på Knutpunkten", "classification": 3, "mlimage": "cigarett, toilett"}  
 ]
